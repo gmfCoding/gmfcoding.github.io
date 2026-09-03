@@ -1,0 +1,3 @@
+[submodule "SimpleGIS"]
+	path = SimpleGIS
+	url = https://github.com/gmfCoding/SimpleGIS.git
